@@ -1,0 +1,63 @@
+=== REGISTRO DE NOTAS (Python) ===
+Ingrese los datos de 3 estudiantes:
+Estudiante 1:
+  Nombre: Ana Torres
+  Nota (0 - 10): 9.5
+Estudiante 2:
+  Nombre: Luis Mora
+  Nota (0 - 10): 6.8
+Estudiante 3:
+  Nombre: Carla Ruiz
+  Nota (0 - 10): 8.2
+
+1. Agregar  2. Mostrar  3. Eliminar  4. Ordenar  5. Estadisticas  0. Salir
+Opcion: 1
+  Nombre: Pedro Vera
+  Nota (0 - 10): doce
+  Valor invalido. Intente de nuevo.
+  Nota (0 - 10): 10
+
+1. Agregar  2. Mostrar  3. Eliminar  4. Ordenar  5. Estadisticas  0. Salir
+Opcion: 2
+
+  #   Nombre              Nota
+  ---------------------------------
+  1   Ana Torres          9.50
+  2   Luis Mora           6.80
+  3   Carla Ruiz          8.20
+  4   Pedro Vera          10.00
+
+1. Agregar  2. Mostrar  3. Eliminar  4. Ordenar  5. Estadisticas  0. Salir
+Opcion: 4
+
+  Ranking (mayor a menor):
+  #   Nombre              Nota
+  ---------------------------------
+  1   Pedro Vera          10.00
+  2   Ana Torres          9.50
+  3   Carla Ruiz          8.20
+  4   Luis Mora           6.80
+
+1. Agregar  2. Mostrar  3. Eliminar  4. Ordenar  5. Estadisticas  0. Salir
+Opcion: 5
+  Promedio: 8.62
+  Nota maxima: 10.00 | Nota minima: 6.80
+  Aprobados (>= 7): 3 de 4
+
+1. Agregar  2. Mostrar  3. Eliminar  4. Ordenar  5. Estadisticas  0. Salir
+Opcion: 3
+  Nombre a eliminar: Luis Mora
+  'Luis Mora' fue eliminado.
+
+1. Agregar  2. Mostrar  3. Eliminar  4. Ordenar  5. Estadisticas  0. Salir
+Opcion: 2
+
+  #   Nombre              Nota
+  ---------------------------------
+  1   Ana Torres          9.50
+  2   Carla Ruiz          8.20
+  3   Pedro Vera          10.00
+
+1. Agregar  2. Mostrar  3. Eliminar  4. Ordenar  5. Estadisticas  0. Salir
+Opcion: 0
+Programa finalizado.
